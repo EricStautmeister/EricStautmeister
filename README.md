@@ -1,5 +1,5 @@
 # Hi, I'm Eric! 
-I am a SOC Analyst, Hobby Programmer and Homelabbing Enthusiast. 
+I am a Junior SOC Analyst, Hobby Programmer and Homelabbing Enthusiast. 
 
 ## Stats
 ![EricStautmeister's Stats](https://github-readme-stats.vercel.app/api?username=EricStautmeister&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
