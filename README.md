@@ -9,9 +9,12 @@ I am a SOC Analyst, Hobby Programmer and Homelabbing Enthusiast.
 ### Languages
 ![Python](https://img.shields.io/badge/Python-%2300599C?style=plastic&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=plastic&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/Python-%2300599C?style=plastic&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Python-%2300599C?style=plastic&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/Python-%2300599C?style=plastic&logo=python&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)](#)
+
 
 
 ## 🤳 Connect with me:
